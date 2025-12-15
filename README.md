@@ -97,6 +97,15 @@ Here are a few highlighted repositories from my GitHub:
 </p>
 
 ---
+## 📊 GitHub Stats
+
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sagar32&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagar32&layout=compact&theme=radical)
+
+### 🔥 Activity & Achievements
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sagar32&theme=blueberry)](https://github.com/sagar32)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sagar32&theme=dark)
+---
 
 ## 🤝 Let’s Work Together
 
